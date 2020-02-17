@@ -1,0 +1,11 @@
+employeeID,employeeName,title,businessUnit,place,supervisorID,competencies,salary
+100,Priyanka,MGR,IND,BGLR, ,Java,30000
+200,Gaurav,MGR,IND,GGN,,Java,40000
+300,Ankit,SLA,IND,GGN,200,Java,20000
+400,Nidhi,SLA,IND,GGN,200,Java,20000
+500,Kanika,SLA,IND,BGLR,100,Java,20000
+600,Madhav,SLA,IND,BGLR,100,Java,10000
+700,Richa,SA,IND,BGLR,600,Java,5000
+800,Mayank,SA,IND,GGN,400,Java,5000
+900,Ganesh,SA,IND,BGLR,500,Java,5000
+1000,Ridhi,SA,IND,GGN,300,Java,5000
